@@ -82,7 +82,7 @@ This provides performance metrics on an input of 1,024K tokens.
 
 ## :floppy_disk: Dataset
 
-EDR3.6B-63F Dataset: [this repo](https://huggingface.co/datasets/The_data_will_be_released_upon_acceptance_of_the_paper./).
+EDR3.6B-63F Dataset: [this repo](https://huggingface.co/datasets/Iceswordlab/EDR3.6B-63F).
 
 ## :raised_hands: FAQs
 
